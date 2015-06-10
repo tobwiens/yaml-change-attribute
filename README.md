@@ -10,5 +10,5 @@ This python script changes yaml configuration files.
 
 ## Usage
 
-echo file.yaml | yaml-change [attribute_name] [value] > changed.yaml
+cat file.yaml | yaml-change [attribute_name] [value] > changed.yaml
 
